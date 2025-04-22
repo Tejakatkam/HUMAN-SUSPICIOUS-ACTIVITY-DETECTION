@@ -21,7 +21,7 @@ This repository contains a Python-based application for detecting suspicious act
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/suspicious-activity-detection.git
+   git clone hhttps://github.com/Tejakatkam/HUMAN-SUSPICIOUS-ACTIVITY-DETECTION.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -51,4 +51,4 @@ This repository contains a Python-based application for detecting suspicious act
 Contributions are welcome. Please fork the repository and submit pull requests.
 
 ## Contact
-For issues or questions, contact [your-email@example.com].
+For issues or questions, contact [tejakatkam2907@gmail.com].
